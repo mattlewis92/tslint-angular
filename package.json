@@ -20,6 +20,6 @@
   "homepage": "https://github.com/mgechev/tslint-angular#readme",
   "peerDependencies": {
     "codelyzer": "^5.0.0",
-    "tslint": "^5.16.0"
+    "tslint": "^5.16.0 || ^6.0.0"
   }
 }
